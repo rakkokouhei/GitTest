@@ -4,5 +4,5 @@ void test()
 {
 	printf("tast");
 	a
-
+		;
 }
