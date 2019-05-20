@@ -2,5 +2,7 @@
 
 void test()
 {
-	printf("tast")
+	printf("tast");
+	a
+
 }
